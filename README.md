@@ -25,4 +25,16 @@ This mix of practice and inquiry equips me to contribute to design scholarship w
 
 ---
 
+## 🧠 PROJECTS
 <img width="1920" height="1080" alt="Portfolio Part A+ Part B" src="https://github.com/user-attachments/assets/801f38f3-5cbc-4065-abd9-4a1384b6ec2b" />
+
+---
+
+## 🧠 PRODUCT FOCUSED
+
+<img width="1920" height="1080" alt="Portfolio Part A+ Part B (1)" src="https://github.com/user-attachments/assets/1a46eb79-6560-4663-b4c4-42aac18c8a61" />
+---
+<img width="1920" height="1080" alt="Portfolio Part A+ Part B (2)" src="https://github.com/user-attachments/assets/561ca5c1-ec6a-447c-95fb-6ecb4191f654" />
+
+---
+
