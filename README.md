@@ -6,3 +6,19 @@ I am passionate about digital art, interaction and research that positions games
 
 With over six years of international experience across education, goverment and commerial sectors, I produce high-quality multimedia outcomes that combine creativity and strategy.
 This mix of practice and inquiry equips me to contribute to design scholarship while advancing innovative approaches in practice-based research.
+
+---
+
+## 🧠 SKILLS
+⚡ Adobe Photoshop
+🤖 Adobe After Effects
+🥤 Adobe Premiere Pro
+🎨 Adobe Illustrator
+⚡ Unity (C#)
+🤖 Advance Microsoft Excel
+🥤 Digital Marketing
+🎨 UI/UX Design
+⚡ Project Management
+🤖 Team Collaboration
+🥤 Problem Solvind
+🎨 Creativity & Innovation
