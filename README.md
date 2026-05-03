@@ -22,3 +22,7 @@ This mix of practice and inquiry equips me to contribute to design scholarship w
 🤖 Team Collaboration
 🥤 Problem Solvind
 🎨 Creativity & Innovation
+
+---
+
+<img width="1920" height="1080" alt="Portfolio Part A+ Part B" src="https://github.com/user-attachments/assets/801f38f3-5cbc-4065-abd9-4a1384b6ec2b" />
