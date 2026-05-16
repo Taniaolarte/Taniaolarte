@@ -62,15 +62,15 @@ NAIBU is a 2D video game designed to support mental health literacy through game
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ### Project Images
-![NAIBU Hero](./assets/naibu-hero.jpg)
+![NAIBU Hero](./naibu-hero.jpg)
 
 | | |
 |---|---|
-| ![NAIBU Screenshot 1](./assets/naibu-01.jpg) | ![NAIBU Screenshot 2](./assets/naibu-02.jpg) |
+| ![NAIBU Screenshot 1](./naibu-01.jpg) | ![NAIBU Screenshot 2](./naibu-02.jpg) |
 
 ---
 
-## Project 2: [Blooming — Interactive Installation] 🌸🖥️ 
+## Project 2: [Blooming — Interactive Installation] 🌸🖥️
 **Museum Exhibition · Bunjil Place**
 
 Blooming is a generative interactive installation exhibited in a gallery setting for one month. The work invites audiences to engage with organic digital growth through physical interaction — exploring themes of emergence, nature, and presence.
@@ -90,9 +90,9 @@ Blooming is a generative interactive installation exhibited in a gallery setting
 ### Project Images
 | | |
 |---|---|
-| ![Blooming Poster](./assets/blooming-poster.jpg) | ![Blooming Trailer](./assets/blooming-trailer.jpg) |
+| ![Blooming Poster](./blooming-poster.jpg) | ![Blooming Trailer](./blooming-trailer.jpg) |
 
-![Blooming](./assets/blooming-thumb.jpg)
+![Blooming](./blooming-thumb.jpg)
 
 ---
 
@@ -113,11 +113,11 @@ An experimental interactive poem that exists as a web experience — combining p
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 
 ### Project Images
-![Interactive Poem 1](./assets/poem-01.jpg)
+![Interactive Poem 1](./poem-01.jpg)
 
 | | |
 |---|---|
-| ![Interactive Poem 2](./assets/poem-02.jpg) | ![Interactive Poem 3](./assets/poem-03.jpg) |
+| ![Interactive Poem 2](./poem-02.jpg) | ![Interactive Poem 3](./poem-03.jpg) |
 
 ---
 
@@ -137,11 +137,11 @@ End-to-end visual identity for XtraCheckpoint — logo system, illustration set,
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Project Images
-![Extra Checkpoint Hero](./assets/extra-checkpoint-hero.jpg)
+![Extra Checkpoint Hero](./extra-checkpoint-hero.jpg)
 
 | | |
 |---|---|
-| ![Extra Checkpoint 1](./assets/extra-checkpoint-01.jpg) | ![Extra Checkpoint 2](./assets/extra-checkpoint-02.jpg) |
+| ![Extra Checkpoint 1](./extra-checkpoint-01.jpg) | ![Extra Checkpoint 2](./extra-checkpoint-02.jpg) |
 
 ---
 
@@ -161,7 +161,7 @@ Chasqui is a game developed in 48 hours during the Women Global Game Jam 2020 �
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 ### Project Images
-![Chasqui](./assets/chasqui-poster.jpg)
+![Chasqui](./chasqui-poster.jpg)
 
 ---
 
@@ -176,7 +176,7 @@ Break is an independently developed videogame exploring tension and release thro
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ### Project Images
-![Break Game](./assets/break-cover.gif)
+![Break Game](./break-cover.gif)
 
 ---
 
@@ -191,7 +191,7 @@ The Library of Emotions is a research-led interactive experience that uses game 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 
 ### Project Images
-![Library of Emotions](./assets/library-01.jpg)
+![Library of Emotions](./library-01.jpg)
 
 ---
 
@@ -207,7 +207,7 @@ A series of AR filters and effects created for TikTok — blending motion design
 ### Project Images
 | | |
 |---|---|
-| ![TikTok AR 1](./assets/tiktok-ar-01.jpg) | ![TikTok AR 2](./assets/tiktok-ar-02.jpg) |
+| ![TikTok AR 1](./tiktok-ar-01.jpg) | ![TikTok AR 2](./tiktok-ar-02.jpg) |
 
 ---
 
@@ -224,7 +224,7 @@ A series of educational animations created to make complex topics accessible —
 ### Project Images
 | | |
 |---|---|
-| ![Hype Edu 1](./assets/hype-01.jpg) | ![Hype Edu 2](./assets/hype-02.jpg) |
+| ![Hype Edu 1](./hype-01.jpg) | ![Hype Edu 2](./hype-02.jpg) |
 
 <br><hr><hr><br>
 
