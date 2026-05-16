@@ -70,7 +70,7 @@ NAIBU is a 2D video game designed to support mental health literacy through game
 
 ---
 
-## Project 2: [Blooming — Interactive Installation] 🌸🖥️
+## Project 2: [Blooming — Interactive Installation] 🌸🖥️ 
 **Museum Exhibition · Bunjil Place**
 
 Blooming is a generative interactive installation exhibited in a gallery setting for one month. The work invites audiences to engage with organic digital growth through physical interaction — exploring themes of emergence, nature, and presence.
