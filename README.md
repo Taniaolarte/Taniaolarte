@@ -62,7 +62,11 @@ NAIBU is a 2D video game designed to support mental health literacy through game
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ### Project Images
-<img width="1920" height="1080" alt="Portfolio Part A+ Part B" src="https://github.com/user-attachments/assets/801f38f3-5cbc-4065-abd9-4a1384b6ec2b" />
+![NAIBU Hero](./assets/naibu-hero.jpg)
+
+| | |
+|---|---|
+| ![NAIBU Screenshot 1](./assets/naibu-01.jpg) | ![NAIBU Screenshot 2](./assets/naibu-02.jpg) |
 
 ---
 
@@ -83,7 +87,12 @@ Blooming is a generative interactive installation exhibited in a gallery setting
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 
-<img width="1920" height="1080" alt="Portfolio Part A+ Part B (1)" src="https://github.com/user-attachments/assets/1a46eb79-6560-4663-b4c4-42aac18c8a61" />
+### Project Images
+| | |
+|---|---|
+| ![Blooming Poster](./assets/blooming-poster.jpg) | ![Blooming Trailer](./assets/blooming-trailer.jpg) |
+
+![Blooming](./assets/blooming-thumb.jpg)
 
 ---
 
@@ -103,14 +112,43 @@ An experimental interactive poem that exists as a web experience — combining p
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 
-<img width="1920" height="1080" alt="Portfolio Part A+ Part B (2)" src="https://github.com/user-attachments/assets/561ca5c1-ec6a-447c-95fb-6ecb4191f654" />
+### Project Images
+![Interactive Poem 1](./assets/poem-01.jpg)
+
+| | |
+|---|---|
+| ![Interactive Poem 2](./assets/poem-02.jpg) | ![Interactive Poem 3](./assets/poem-03.jpg) |
 
 ---
 
-## Project 4: [Chasqui — Game Jam Entry] 🏃‍♀️🎮
-**Women Global Game Jam 2020**
+## Project 4: [Extra Checkpoint — Brand Identity] ✏️🎯
+**Full Brand Identity & Visual Language**
 
-Chasqui is a game developed in 48 hours during the Women Global Game Jam 2020 — one of 10 games selected from the event. Inspired by Andean mythology, the game follows a Chasqui (messenger) on a sprint through ancient landscapes.
+End-to-end visual identity for XtraCheckpoint — logo system, illustration set, and a videogame-leaning visual language built for a community-driven gaming brand. Every element designed to feel native to gaming culture while staying bold enough for merch, digital, and social contexts.
+
+### Main Features
+- Full logo system with variants for multiple contexts
+- Custom illustration set and brand visual language
+- Digital-first templates for social and merch
+
+### Technologies used
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+### Project Images
+![Extra Checkpoint Hero](./assets/extra-checkpoint-hero.jpg)
+
+| | |
+|---|---|
+| ![Extra Checkpoint 1](./assets/extra-checkpoint-01.jpg) | ![Extra Checkpoint 2](./assets/extra-checkpoint-02.jpg) |
+
+---
+
+## Project 5: [Chasqui — Game Jam Entry] 🏃‍♀️🎮
+**Women Global Game Jam 2020 · Top 10 Selection**
+
+Chasqui is a game developed in 48 hours during the Women Global Game Jam 2020 — selected as one of the top 10 games from the event. Inspired by Andean mythology, the game follows a Chasqui (messenger) on a sprint through ancient landscapes.
 
 ### Main Features
 - Designed, developed, and shipped in a 48-hour game jam
@@ -122,22 +160,71 @@ Chasqui is a game developed in 48 hours during the Women Global Game Jam 2020 �
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
+### Project Images
+![Chasqui](./assets/chasqui-poster.jpg)
+
 ---
 
-## Project 5: [Sub40 — Brand Identity] ✏️🎯
-**End-to-End Visual Identity**
+## Project 6: [Break — Videogame] 🕹️
+**Independent Game Development**
 
-Full brand identity for Sub40 — wordmark, type system, photography direction, packaging, and digital-first brand templates. A high-contrast colour scheme paired with a warm secondary palette, anchored by a custom bold wordmark and geometric monogram.
-
-### Main Features
-- Custom wordmark and complementary geometric monogram
-- Photography direction and packaging design
-- Complete digital-first brand template system
+Break is an independently developed videogame exploring tension and release through minimalist game mechanics. The project focuses on tight game feel, responsive controls, and a mood-driven aesthetic.
 
 ### Technologies used
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+### Project Images
+![Break Game](./assets/break-cover.gif)
+
+---
+
+## Project 7: [Library of Emotions — PhD Project] 📚❤️
+**Research-Led Interactive Experience**
+
+The Library of Emotions is a research-led interactive experience that uses game mechanics as a framework for emotional exploration. Developed as part of PhD-level practice research, the project investigates how interactive archives can model emotional states and support self-reflection.
+
+### Technologies used
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+
+### Project Images
+![Library of Emotions](./assets/library-01.jpg)
+
+---
+
+## Project 8: [TikTok AR Filters] 📱✨
+**Augmented Reality · Filters & Effects**
+
+A series of AR filters and effects created for TikTok — blending motion design, 3D elements, and real-time face tracking into shareable social experiences. Each filter was designed with virality and brand identity in mind.
+
+### Technologies used
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+### Project Images
+| | |
+|---|---|
+| ![TikTok AR 1](./assets/tiktok-ar-01.jpg) | ![TikTok AR 2](./assets/tiktok-ar-02.jpg) |
+
+---
+
+## Project 9: [Hype Educational Animations] 🎓🎬
+**Educational Motion Design**
+
+A series of educational animations created to make complex topics accessible — bright colour palettes, clear motion hierarchies, and pacing calibrated for learner retention. Produced for Hype's online learning platform.
+
+### Technologies used
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+
+### Project Images
+| | |
+|---|---|
+| ![Hype Edu 1](./assets/hype-01.jpg) | ![Hype Edu 2](./assets/hype-02.jpg) |
 
 <br><hr><hr><br>
 
@@ -156,6 +243,3 @@ Full brand identity for Sub40 — wordmark, type system, photography direction, 
 - 🎮 **Top 10 Games Selection** — Women Global Game Jam 2020
 - ⭐ **Top-Rated Freelancer** — Upwork (99%+ success rate, since May 2020)
 - 🏆 **Winner — Freedom Challenge** — Full scholarship for innovation app diploma
-
-## 📄 CV 📄
-<a href="https://taniaolarte.com/cv">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
