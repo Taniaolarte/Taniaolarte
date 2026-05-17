@@ -1,4 +1,4 @@
-![Banner](https://github.com/Taniaolarte/Taniaolarte/blob/main/gitHub_Banner.gif)
+![Banner](https://github.com/Taniaolarte/Taniaolarte/blob/main/BannerGit.gif)
 
 ### Multimedia Designer & Specialist with 6+ years of international experience across education, government, and commercial sectors. Currently completing a Master's in Animation, Interactives & Video Games at RMIT — combining research-led creative practice with award-winning project work.
 
